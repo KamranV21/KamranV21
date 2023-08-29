@@ -1,1 +1,6 @@
-![chunny-ts-birdkick](https://github.com/KamranV21/KamranV21/assets/42230740/25ead5c7-af77-445e-9e01-0de767d4a71b)
+<p align="center">
+  <img src="https://www.fightersgeneration.com/characters/chunny-ts-birdkick.gif" alt="animated" />
+</p>
+<h2 align="center" style="fontSize=12">
+  Code Fighter :fire:
+</h2>
